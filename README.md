@@ -32,3 +32,8 @@ It was designed to reduce manual work for educators and ensure that student grad
 ---
 
 ## 📂 Project Structure
+
+automated-quiz-scoring/
+ ├── Code.gs     # Main Google Apps Script source code
+ └── README.md   # Project documentation
+
